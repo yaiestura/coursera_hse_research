@@ -1,0 +1,92 @@
+course_name,course_name_length,course_url,course_rating,course_enrolled,rating,reviews,course_views,course_hours,course_category,course_discipline,num_of_weeks,course_level
+Practical Reinforcement Learning,32,https://www.coursera.org/learn/practical-rl,4.1,25426,315,86,54364,38,Data Science,Machine Learning,6,Advanced
+Макроэкономика (Macroeconomics),31,https://www.coursera.org/learn/makrojekonomika,4.9,19589,383,39,52982,31,Social Sciences,Economics,10,Beginner
+Introduction to Neuroeconomics: How the Brain Makes Decisions,61,https://www.coursera.org/learn/neuroeconomics,4.7,82329,1161,239,84758,18,Social Sciences,Economics,9,Beginner
+Линейная алгебра (Linear Algebra),33,https://www.coursera.org/learn/algebra-lineynaya,4.5,22339,271,50,34765,39,Math and Logic,Math and Logic,11,Beginner
+"Инфраструктура рынка, методы и технологии инвестирования",56,https://www.coursera.org/learn/infrastruktura-rynka,4.3,4895,72,11,6040,12,Business,Finance,4,Beginner
+Методы и средства защиты информации,35,https://www.coursera.org/learn/metody-i-sredstva-zashity-informacii,4.7,3772,34,6,11829,23,Computer Science,Computer Security and Networks,9,Beginner
+Теория отраслевых рынков (Industrial Organization),50,https://www.coursera.org/learn/otraslevye-rynki,4.6,5569,48,8,5028,30,Social Sciences,Economics,8,Intermediate
+Ценные бумаги: правовое регулирование,37,https://www.coursera.org/learn/cennye-bumagi-pravovoe-regulirovanie,4.9,13538,181,24,26206,31,Business,Finance,10,None
+"Учимся учиться. Как преуспеть в школе, не тратя всё время на учёбу",66,https://www.coursera.org/learn/learnhow,4.8,17849,500,107,60166,5,Personal Development,Personal Development,3,Beginner
+Российское предпринимательское право,36,https://www.coursera.org/learn/rus-business-law,None,None,None,None,9873,32,Social Sciences,Law,10,Intermediate
+Jacobi modular forms: 30 ans après,34,https://www.coursera.org/learn/modular-forms-jacobi,4.8,2672,14,3,2014,55,Math and Logic,Math and Logic,12,Advanced
+Public Economics,16,https://www.coursera.org/learn/public-economics,4.5,13188,97,17,4982,15,Social Sciences,Economics,6,Intermediate
+Economics of Transition and Emerging Markets,44,https://www.coursera.org/learn/economics-transition-emerging-markets,4.3,8709,105,14,6716,13,Social Sciences,Economics,6,Beginner
+Business Strategies for Emerging Markets,40,https://www.coursera.org/learn/business-strategies,4.8,7551,125,28,23453,20,Business,Business Strategy,8,Intermediate
+Юридическое оформление инвестиционных идей,42,https://www.coursera.org/learn/law-invest-ideas,4.7,1977,12,5,3994,27,Social Sciences,Law,9,None
+Bayesian Methods for Machine Learning,37,https://www.coursera.org/learn/bayesian-methods-in-machine-learning,4.6,34047,491,136,83782,38,Data Science,Machine Learning,6,Advanced
+Работа с клиентской базой и входящий маркетинг,46,https://www.coursera.org/learn/klientskaya-basa-vkhodyaschii-marketing,4.7,3235,97,13,7338,12,Business,Marketing,4,Intermediate
+Основы философии: о чем спорят философы сегодня,47,https://www.coursera.org/learn/osnovy-filosofii,4.8,20722,317,28,99271,19,Arts and Humanities,Philosophy,11,Beginner
+Communication theory: bridging academia and practice,52,https://www.coursera.org/learn/communicationtheory-academia-practice,4.7,5679,48,4,39061,10,Social Sciences,Governance and Society,9,Intermediate
+"Итоговый проект специализации ""Основы Digital Маркетинга""",57,https://www.coursera.org/learn/capstone-project,4.5,None,20,5,3015,12,Business,Marketing,4,Intermediate
+Основы корпоративных финансов (Fundamentals of Corporate Finance),65,https://www.coursera.org/learn/osnovy-korporativnykh-finansov,4.9,25660,333,46,45441,50,Business,Finance,11,Beginner
+Экономическая социология,24,https://www.coursera.org/learn/ekonomicheskaya-sociologiya,4.9,10433,370,32,7992,14,Social Sciences,Economics,10,None
+Towards language universals through lexical semantics: introduction to lexical and semantic typology,100,https://www.coursera.org/learn/lexical-semantic-typology,4.5,7051,35,8,6967,18,Language Learning,Other Languages,6,Advanced
+Religions and Society in China,30,https://www.coursera.org/learn/religions-society-china,4.5,6780,103,28,4928,16,Arts and Humanities,History,9,Beginner
+"Итоговый проект специализации ""Финансовые инструменты для частного инвестора""",77,https://www.coursera.org/learn/financial-instruments-capstone,4.5,None,6,1,1647,17,Business,Finance,6,Beginner
+Как найти свою первую работу? Практический курс для студентов вузов,67,https://www.coursera.org/learn/findjob,4.7,3933,63,5,6433,5,Personal Development,Personal Development,2,Beginner
+Discrete Math and Analyzing Social Graphs,41,https://www.coursera.org/learn/discrete-math-and-analyzing-social-graphs,4.7,3798,94,13,107421,8,Math and Logic,Math and Logic,6,Beginner
+Менеджмент информационной безопасности,38,https://www.coursera.org/learn/management-informacionnoi-bezopasnosti,4.8,2179,26,3,8820,16,Computer Science,Computer Security and Networks,6,Intermediate
+Эконометрика (Econometrics),27,https://www.coursera.org/learn/ekonometrika,4.9,27143,475,81,52044,54,Social Sciences,Economics,10,None
+Структура капитала компании,27,https://www.coursera.org/learn/struktura-kapitala-kompanii,4.8,4640,65,8,3585,18,Business,Finance,4,Beginner
+Mathematics for economists,26,https://www.coursera.org/learn/mathematics-for-economists,4.5,12272,22,5,19957,35,Math and Logic,Math and Logic,8,Intermediate
+Introduction to numerical analysis,34,https://www.coursera.org/learn/intro-to-numerical-analysis,4.8,6625,59,7,116323,16,Computer Science,Algorithms,7,Intermediate
+Industrial Organization: Strategy and Competition in Business,61,https://www.coursera.org/learn/industrial-organization,4.9,3892,24,6,9420,28,Business,Business Strategy,10,None
+Философия культуры (Philosophy of Culture),42,https://www.coursera.org/learn/filosofiya-kultury,4.7,10631,103,22,13777,18,Arts and Humanities,Philosophy,8,Beginner
+Introduction to Enumerative Combinatorics,41,https://www.coursera.org/learn/enumerative-combinatorics,4.6,7057,75,27,9211,35,Math and Logic,Math and Logic,8,Intermediate
+"Probability Theory, Statistics and Exploratory Data Analysis",60,https://www.coursera.org/learn/probability-intro,3.9,None,7,3,30149,23,Math and Logic,Math and Logic,6,Beginner
+Экономика для неэкономистов (Economics for non-economists),58,https://www.coursera.org/learn/ekonomika-dlya-neekonomistov,4.9,50950,815,127,128662,33,Social Sciences,Economics,10,Beginner
+Портфельные инвестиции: активные и пассивные стратегии,54,https://www.coursera.org/learn/portfelnyye-investitsii,4.6,6567,121,16,11275,13,Business,Finance,4,Beginner
+Introduction to Galois Theory,29,https://www.coursera.org/learn/galois,4.3,19884,103,30,9163,46,Math and Logic,Math and Logic,9,Advanced
+Введение в машинное обучение,28,https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie,4.6,88137,2155,407,146684,35,Data Science,Machine Learning,7,None
+Теория игр (Game Theory),24,https://www.coursera.org/learn/game-theory,4.8,43220,761,100,40349,26,Math and Logic,Math and Logic,11,None
+Мастерство создания стоимости компании,38,https://www.coursera.org/learn/sozdanie-stoimosti-kompanii,None,None,None,None,None,14,Business,Finance,6,Intermediate
+История и теория медиа (History and theory of media),52,https://www.coursera.org/learn/teoriya-smi,4.6,9382,91,17,12355,25,Arts and Humanities,History,12,Beginner
+Deep Learning in Computer Vision,32,https://www.coursera.org/learn/deep-learning-in-computer-vision,3.8,27230,195,47,55639,23,Computer Science,Algorithms,5,Advanced
+Инвестиции в облигации,22,https://www.coursera.org/learn/investicii-obligacii,4.4,9615,292,59,31019,21,Business,Finance,4,Beginner
+Речевой этикет: вежливость и коммуникативные стратегии,54,https://www.coursera.org/learn/rechevoj-etiket,4.6,12636,45,7,18546,26,Arts and Humanities,History,11,Beginner
+Психология коммуникации,23,https://www.coursera.org/learn/psikhologiya-kommunikacii,4.6,14339,81,10,39350,17,Social Sciences,Governance and Society,8,Beginner
+How to Win a Data Science Competition: Learn from Top Kagglers,62,https://www.coursera.org/learn/competitive-data-science,4.7,55784,807,171,178684,45,Data Science,Data Analysis,5,Advanced
+Управление стоимостью компании,30,https://www.coursera.org/learn/upravlenie-stoimostju-kompanii,4.6,2955,15,1,2560,21,Business,Finance,4,Intermediate
+Инвестиции в акции,18,https://www.coursera.org/learn/investicii-akcii,3.9,9880,157,42,25064,32,Business,Finance,5,Beginner
+"Инвестиционные проекты, слияния и поглощения",44,https://www.coursera.org/learn/sliyaniye-pogloshcheniye,4.7,4403,55,8,4088,16,Business,Finance,6,Beginner
+Introduction into General Theory of Relativity,46,https://www.coursera.org/learn/general-relativity,4.6,32175,113,37,24089,47,Physical Science and Engineering,Physics and Astronomy,12,Advanced
+Оценка стоимости компании,25,https://www.coursera.org/learn/ocenka-stoimosti-kompanii,4.4,9673,171,21,15853,21,Business,Finance,6,Beginner
+Умная аналитика в управлении образованием,41,https://www.coursera.org/learn/smart-analytics-education,None,None,None,None,8343,36,Social Sciences,Education,11,Intermediate
+Управление личными финансами,28,https://www.coursera.org/learn/upravlenie-lichnymi-finansami,4.8,26285,1066,204,49097,14,Business,Finance,4,Beginner
+Маркетинговая стратегия в digital среде (Digital marketing strategy),68,https://www.coursera.org/learn/digital-marketing-strategy,4.6,12520,397,67,35763,16,Business,Marketing,4,Intermediate
+Understanding International Relations Theory,44,https://www.coursera.org/learn/international-relations-theory,4.7,20080,160,47,82119,30,Social Sciences,Governance and Society,12,None
+Natural Language Processing,27,https://www.coursera.org/learn/language-processing,4.6,52630,560,136,124958,34,Data Science,Machine Learning,5,Advanced
+Социология медиа,16,https://www.coursera.org/learn/sociologiya-media,3.8,2315,5,1,7086,31,Social Sciences,Governance and Society,10,Beginner
+Венчурный капитал,17,https://www.coursera.org/learn/venchurnyj-kapital,4.5,3810,35,5,2240,14,Business,Finance,4,Beginner
+Introduction to Deep Learning,29,https://www.coursera.org/learn/intro-to-deep-learning,4.6,59268,1289,289,154838,35,Data Science,Machine Learning,6,Advanced
+Санкт-Петербург – столица империи Петра I,41,https://www.coursera.org/learn/sankt-peterburg-petr,4.9,8600,24,3,6203,33,Arts and Humanities,History,13,Beginner
+Контекстная реклама. Google AdWords,35,https://www.coursera.org/learn/kontextnaya-reklama-google-adwords,4.6,4883,167,20,12902,15,Business,Marketing,4,Intermediate
+Психология межгрупповых отношений,33,https://www.coursera.org/learn/psikhologiya-mejgruppovykh-otnoshenii,4.9,4682,32,5,9522,25,Social Sciences,Governance and Society,9,None
+История международных отношений,31,https://www.coursera.org/learn/int-relations-history,None,None,None,None,12914,21,Arts and Humanities,History,9,Beginner
+Addressing Large Hadron Collider Challenges by Machine Learning,63,https://www.coursera.org/learn/hadron-collider-machine-learning,4.5,6595,59,7,6749,16,Computer Science,Algorithms,5,Advanced
+First Steps in Linear Algebra for Machine Learning,50,https://www.coursera.org/learn/first-steps-in-linear-algebra-for-machine-learning,4.1,1988,7,2,43938,16,Math and Logic,Math and Logic,4,Intermediate
+Introduction to Formal Concept Analysis,39,https://www.coursera.org/learn/formal-concept-analysis,4.8,5398,31,12,5928,38,Data Science,Data Analysis,6,Intermediate
+Введение в математические методы физики,39,https://www.coursera.org/learn/vvedenie-v-mat-metody,4.9,2566,10,1,8193,40,Math and Logic,Math and Logic,10,Intermediate
+Введение в теорию построения процедур множественной проверки гипотез,68,https://www.coursera.org/learn/multiple-hypotheses-testing,None,None,None,None,2564,32,Data Science,Probability and Statistics,8,Intermediate
+Документы и презентации в LaTeX (Introduction to LaTeX),55,https://www.coursera.org/learn/latex,4.8,14595,279,64,25041,27,Computer Science,Design and Product,5,None
+Авторские школы,15,5.0,https://www.coursera.org/learn/authorschools,None,5,3,5733,25,Social Sciences,Education,6,Beginner
+Теория функций комплексного переменного,39,https://www.coursera.org/learn/complex-variable,None,1694,None,None,11531,30,Physical Science and Engineering,Physics and Astronomy,10,Intermediate
+Возможно ли воспитать детей «правильно»?,40,https://www.coursera.org/learn/vospitat-detei-pravilno,4.8,8789,46,19,18251,22,Social Sciences,Governance and Society,6,Beginner
+История экономической мысли (History of Economic Thought),57,https://www.coursera.org/learn/istoriya-ekonomicheskoy-mysli,4.7,13120,175,17,22797,16,Social Sciences,Economics,11,Beginner
+Основы программирования на Python,33,https://www.coursera.org/learn/python-osnovy-programmirovaniya,4.6,68984,1650,359,1358978,70,Computer Science,Algorithms,9,Beginner
+Институциональная экономика (Institutional economics),53,https://www.coursera.org/learn/institutional-economics,4.8,7549,253,24,11573,13,Social Sciences,Economics,8,Beginner
+Understanding Russians: Contexts of Intercultural Communication,63,https://www.coursera.org/learn/intercultural-communication-russians,4.5,6749,56,12,8383,26,Arts and Humanities,History,8,Beginner
+Stalin and Stalinism in Russian History,39,https://www.coursera.org/learn/stalinism,4.7,7411,96,33,6725,33,Arts and Humanities,History,10,Beginner
+Организационные практики и инструменты в работе лидера образовательной организации,82,https://www.coursera.org/learn/organizational-practices-and-instruments,None,None,None,None,4663,14,Social Sciences,Education,6,Intermediate
+Семантика (Московская семантическая школа и близкие теории),59,https://www.coursera.org/learn/moscow-semantic-school,4.8,2028,5,3,4592,19,Arts and Humanities,Philosophy,6,None
+Understanding Russian Economy. Problems of Transition,53,https://www.coursera.org/learn/economy-russia-transition,4.7,5658,229,35,6639,10,Social Sciences,Economics,8,None
+Алгоритмизация вычислений (Algorithmic computation),51,https://www.coursera.org/learn/algoritmizacija-vychislenij,4.6,8931,144,5,11994,27,Computer Science,Algorithms,12,Beginner
+Calculus and Optimization for Machine Learning,46,https://www.coursera.org/learn/calculus-and-optimization-for-machine-learning,4.4,2192,27,4,141276,4,Math and Logic,Math and Logic,6,Intermediate
+Финансовые рынки и институты (Financial Markets and Institutions),65,https://www.coursera.org/learn/finansovye-rynki,4.9,36541,1341,166,97174,26,Social Sciences,Economics,9,None
+Introduction to Multilingual and Multicultural Education,56,https://www.coursera.org/learn/multilingual-multicultural-education,4.4,4089,32,11,6457,22,Arts and Humanities,History,9,Beginner
+Mobile Interaction Design: How to Design Usable Mobile Products and Services,76,https://www.coursera.org/learn/mobile-interaction-design,4.8,5775,9,2,13080,38,Computer Science,Design and Product,10,Intermediate
+Основы микроэкономики (Microeconomics Principles),49,https://www.coursera.org/learn/mikroekonomika,4.5,14879,172,22,21138,27,Social Sciences,Economics,10,Beginner
+Stochastic processes,20,https://www.coursera.org/learn/stochasticprocesses,4.5,21397,180,52,42928,29,Math and Logic,Math and Logic,9,Intermediate
+Сравнительная политика (Comparative Politics),45,https://www.coursera.org/learn/politika-sravnitelnaja,4.6,9587,108,16,8513,23,Social Sciences,Governance and Society,12,None
+Cultural and creative industries,32,https://www.coursera.org/learn/cultural-creative-industries,3.8,3483,25,5,57654,18,Arts and Humanities,History,8,None
